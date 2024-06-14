@@ -1,0 +1,7 @@
+.page_header {
+    background: url(src/ovk.png);
+}
+
+.header_navigation .link {
+    background: url(https://ovk.to/assets/packages/static/openvk/img/divider.png) no-repeat;
+}
