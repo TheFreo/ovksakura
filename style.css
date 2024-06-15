@@ -1,7 +1,15 @@
 .page_header {
-    background: url(https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/ovk.png);
+  background: url(https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/ovk.png);
 }
 
 .header_navigation .link {
     background: url(https://ovk.to/assets/packages/static/openvk/img/divider.png) no-repeat;
+}
+
+.button {
+    background: #612759;
+}
+
+#activetabs {
+  background: #612759;
 }
