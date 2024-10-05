@@ -1,5 +1,5 @@
 .page_header {
-  background: url(https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/ovk.png);
+    background: url(https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/ovk.png);
 }
 
 .header_navigation .link {
@@ -11,5 +11,26 @@
 }
 
 #activetabs {
-  background: #612759;
+    background: #612759;
+}
+
+#used, .slider {
+    background: #612759 !important;
+}
+
+.bigPlayer, .selectableTrack {
+    border-top: #612759 1px solid;
+}
+
+.audioEntry.nowPlaying {
+    background: #612759;
+    border: 1px solid #612759;
+}
+
+.audioEntry.nowPlaying:hover {
+    background: #732769 !important;
+}
+
+.paginator a.active {
+    border-top: 3px solid #732769;
 }
