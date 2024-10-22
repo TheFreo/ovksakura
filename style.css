@@ -34,3 +34,7 @@
 .paginator a.active {
     border-top: 3px solid #732769;
 }
+
+.profile-hints a, .profile-hints br {
+    display: none;
+}
