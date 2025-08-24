@@ -44,9 +44,9 @@
 }
 
 .musicIcon {
-    background-image: url('https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/audios-controls.png');
+    background-image: url('https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/audios_controls.png');
 }
 
 .audioEntry .playerButton .playIcon {
-    background-image: url('https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/play-buttons.png');
+    background-image: url('https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/play_buttons.png');
 }
