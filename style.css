@@ -3,14 +3,14 @@
 }
 
 .header_navigation .link {
-    background: url(https://ovk.to/assets/packages/static/openvk/img/divider.png) no-repeat;
+    background: url(https://ovk.to/assets/packages/static/openvk/img/divid1er.png) no-repeat;
 }
 
 .button {
     background: #612759;
 }
 
-#activetabs {
+#activetabs, .mb_tab#active {
     background: #612759;
 }
 
@@ -41,4 +41,12 @@
 
 #news {
     display: none;
+}
+
+.musicIcon {
+    background-image: url('https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/audios-controls.png');
+}
+
+.audioEntry .playerButton .playIcon {
+    background-image: url('https://raw.githubusercontent.com/TheFreo/ovksakura/main/src/play-buttons.png');
 }
